@@ -1,0 +1,3804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.mayuzumi.immegpt</string>
+	<key>category</key>
+	<string>Productivity</string>
+	<key>connections</key>
+	<dict>
+		<key>00A127ED-D1BF-432C-8F30-327E24408B70</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7F05F172-F607-42AC-AA0D-B5885D74057B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>04569950-8BD4-4325-8745-CC96F9C78BBA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>46002397-D673-40A5-81E7-135F9FBCF6F8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>046D3D10-6E11-4AD7-A0CF-DD51F42EDA7D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D52F2B56-A4EA-40F1-88D3-8C565A8F63A1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>054102C5-AA53-40AE-B841-D82CC65A2B68</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3E98F246-82C9-452A-8DE1-1AF52A982EAA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>F57C911A-F44D-463B-A802-E21AE3306558</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>F9B1728D-2966-4B71-A3FA-CE89AB610575</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>07BE262F-D006-479C-84E8-F518613EE3E8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2F26744A-AC7E-4136-8729-F75DEA355AB4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>11B4E6E7-7A8E-4C21-988A-F4B0AAAA8D4F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AF44569A-DB8F-4AB5-BFC6-DF3488228155</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>13F257D9-374F-4189-A1B9-CC099D362A59</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AE673817-E7FE-4BD7-9A43-B0B51991B8BE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>1452A09E-F807-4BD2-8D7A-E32F1E3BA658</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5C9D7762-30C0-44CB-B3DC-F12138F9A291</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>266FF0C5-E796-417C-BB4A-EED6617FFDB7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>38545853-898C-4095-A68B-33C1C6F01CA9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2EBB91B1-D2EE-4995-A908-BC657D8CB5D8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C799B616-1F85-4C57-8AE5-67581466A24C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2F26744A-AC7E-4136-8729-F75DEA355AB4</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2EBB91B1-D2EE-4995-A908-BC657D8CB5D8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>30C70893-ED69-465D-B7D8-8D76E6411200</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>502539B2-0FFB-4CF4-A7A4-78BF1B588C45</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>34DE72C7-333A-4A0F-842C-2A5349A5794B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>44095CB4-14EC-412F-A468-7907847B05AA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>35E7AD98-68E7-4A52-8C5A-BD5439F775C1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4DC0108C-D9F6-4125-A307-86CBD80C1664</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>38545853-898C-4095-A68B-33C1C6F01CA9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E463CD1C-479D-44D6-AA80-3BD979CB1F80</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>3A2121BC-4DD1-490A-AFD1-D8FAE57EE217</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>13F257D9-374F-4189-A1B9-CC099D362A59</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>44F655EE-1FDA-4AB1-A50C-E8FCB90A267A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>11B4E6E7-7A8E-4C21-988A-F4B0AAAA8D4F</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>Select another chat.</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>AC26F72A-97BA-40CF-A315-17C0C5C833F0</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>View chat history.</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>3F380C6D-995B-464A-96B8-0E62C1F2B269</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B6C6E04D-A3FF-4C95-9AF6-C22C1FD20D8F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>44095CB4-14EC-412F-A468-7907847B05AA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C56AB6EA-BA7B-4606-B673-14B4CD256871</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>44AD4CC2-0F06-4DDB-A262-FA162CB7851C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2DE314B6-8382-4A13-BDA0-FFC492987176</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>44F655EE-1FDA-4AB1-A50C-E8FCB90A267A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BE8422B2-A232-41FC-90B1-F077B61351E0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>46002397-D673-40A5-81E7-135F9FBCF6F8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6250358F-6656-4585-8600-02CE2DE9287A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4A2E2E7A-129E-43BE-954C-0239D4F5325E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>54AC1212-B93B-4E08-BE82-84A55B8CC19D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4DC0108C-D9F6-4125-A307-86CBD80C1664</key>
+		<array/>
+		<key>56FB2963-3825-4F23-B612-EAB9BBC57C4E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3A2121BC-4DD1-490A-AFD1-D8FAE57EE217</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>57C43E92-06B6-421D-BB4F-750D2F2F28DA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>80C81086-47B4-44D4-9E49-E26BABA13EEE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>AF183C5F-86E8-449C-8810-2A30092CF6E3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>60808EB7-1EFF-49D8-BF38-52C0C2DD7126</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E9A1E86E-9620-4711-9596-64637CCC5715</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string>Press control and enter to edit chat prompt.</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>054102C5-AA53-40AE-B841-D82CC65A2B68</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string>Please press command and enter to delete.</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>94A420B7-1C45-4F9B-9885-4170ACFCB5E9</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>Press command and enter to delete.</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>EF993401-9254-4FF0-920C-938C301D1BC6</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>Press option and enter to view history.</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6250358F-6656-4585-8600-02CE2DE9287A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>07BE262F-D006-479C-84E8-F518613EE3E8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>73E485FB-7D33-4589-9CEA-DC67D8E6A4A9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A80B6C17-FE4D-4DEA-A061-E5CC9D343333</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7F05F172-F607-42AC-AA0D-B5885D74057B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>48A25676-238D-4F27-90A8-E49D8C027B6B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>928B58A7-CE6F-4AD2-B423-814586F3F68A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9D885433-0788-477A-AA27-3516AAFA1D1D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>94A420B7-1C45-4F9B-9885-4170ACFCB5E9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>30C70893-ED69-465D-B7D8-8D76E6411200</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9D885433-0788-477A-AA27-3516AAFA1D1D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>34DE72C7-333A-4A0F-842C-2A5349A5794B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A80B6C17-FE4D-4DEA-A061-E5CC9D343333</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B09A5700-9D22-411B-AE9D-215815446B6B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AC26F72A-97BA-40CF-A315-17C0C5C833F0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C5B4C6A9-3650-4B36-9711-6A9FA869266E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AE673817-E7FE-4BD7-9A43-B0B51991B8BE</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F5C50DB1-46A4-469C-A1D2-C819F5FA2793</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AF183C5F-86E8-449C-8810-2A30092CF6E3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>352F3C1B-2BFB-4D7B-B632-CF0DBE9DAED0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AF44569A-DB8F-4AB5-BFC6-DF3488228155</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E7111F53-E5E9-4C18-955A-593B149D2A8A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B6C6E04D-A3FF-4C95-9AF6-C22C1FD20D8F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4A2E2E7A-129E-43BE-954C-0239D4F5325E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>C53A25AE-E10F-4772-B30D-741EE61F2B6B</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>A231F83C-B5BD-4331-AD68-18C9D3F22AA3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>DE47D6EE-B7E6-41D7-88F1-460F5045206C</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>57C43E92-06B6-421D-BB4F-750D2F2F28DA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>BE7A9886-1391-41EC-8798-07F4FA334675</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>44AD4CC2-0F06-4DDB-A262-FA162CB7851C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C5B4C6A9-3650-4B36-9711-6A9FA869266E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>266FF0C5-E796-417C-BB4A-EED6617FFDB7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C799B616-1F85-4C57-8AE5-67581466A24C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BE7A9886-1391-41EC-8798-07F4FA334675</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>CCC8253D-F21C-466A-9529-ED292A9D4D87</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A80B6C17-FE4D-4DEA-A061-E5CC9D343333</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E9A1E86E-9620-4711-9596-64637CCC5715</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1452A09E-F807-4BD2-8D7A-E32F1E3BA658</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EF993401-9254-4FF0-920C-938C301D1BC6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>00A127ED-D1BF-432C-8F30-327E24408B70</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F9B1728D-2966-4B71-A3FA-CE89AB610575</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>046D3D10-6E11-4AD7-A0CF-DD51F42EDA7D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>16E07E2E-7746-4886-8F45-CD96E7248F55</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>mayuzumi</string>
+	<key>description</key>
+	<string>ChatGPT result immediately and immersively</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>ImmeGPT</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>size</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>2</integer>
+				<key>runningsubtext</key>
+				<string>Wait...</string>
+				<key>script</key>
+				<string>#!/usr/bin/env python3
+# -*- coding: UTF-8 -*- 
+
+import subprocess, json, os
+
+def get_alfred_window_rect():
+	while True:
+		script = '''
+		tell application "System Events"
+			tell application process "Alfred"
+				tell window 1
+					return {position, size}
+				end tell
+			end tell
+		end tell
+		'''
+		result = subprocess.run(['osascript', '-e', script], capture_output=True, text=True)
+		output = result.stdout.strip().replace('ordered', '')
+		try:
+			window_rect = eval(output)
+			return window_rect
+		except:
+			pass
+		
+def get_screen_height():
+	script = '''
+	tell application "Finder"
+		set screenDimensions to bounds of window of desktop
+		set screenHeight to item 4 of screenDimensions
+		return screenHeight
+	end tell
+	'''
+	process = subprocess.Popen(['osascript', '-e', script], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+	stdout, stderr = process.communicate()
+	
+	if stderr:
+		return None
+	screen_height = int(stdout.decode().strip())
+	return screen_height
+	
+def main():
+	try:
+		rect = get_alfred_window_rect()
+		while rect[2] &lt; 100:
+			rect = get_alfred_window_rect()
+		height_window = int({query})
+		screen_height = get_screen_height()
+		y_window = screen_height - rect[1] - height_window - rect[3] - 10
+		position = str(rect[0]) + " " + str(y_window) + " " + str(rect[2]) + " " + str(height_window)
+		with open("size.txt", "w") as file:
+			file.write(str(position))
+		size_and_position = f"x:{rect[0]}, y:{y_window}, width:{rect[2]}, height:{height_window}"
+		output = json.dumps({"items":[{"uid":"query","title":"Done.","subtitle":size_and_position}]})
+		print(output)
+	except:
+		pass
+		
+if __name__ == '__main__':
+	main()</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>skipuniversalaction</key>
+				<true/>
+				<key>subtext</key>
+				<string>Set popup size and position based on Alfred popup size and position.</string>
+				<key>title</key>
+				<string>Please input the popup window height you want.</string>
+				<key>type</key>
+				<integer>9</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>inboundconfig</key>
+			<dict>
+				<key>externalid</key>
+				<string>size</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>FDCA1704-30BF-4FE6-90E3-1C97AB138AE7</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>import json, sys
+
+query = sys.argv[1]
+data = {"message": query}
+formatted_json = json.dumps(data, indent=4, ensure_ascii=False)
+with open("message.txt", "w") as file:
+    file.write(formatted_json)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>9D885433-0788-477A-AA27-3516AAFA1D1D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>1</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>928B58A7-CE6F-4AD2-B423-814586F3F68A</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Loading...</string>
+				<key>script</key>
+				<string>python3 chat_select.py</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>/Users/alick/Documents/Alfred.alfredpreferences/workflows/user.workflow.E7E797CA-20ED-4606-850A-5969AAA1D86F/chat_select.py</string>
+				<key>skipuniversalaction</key>
+				<true/>
+				<key>subtext</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Select a chat prompt.</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>34DE72C7-333A-4A0F-842C-2A5349A5794B</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>hi_chat</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<false/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>C56AB6EA-BA7B-4606-B673-14B4CD256871</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>#!/usr/bin/env python3
+# -*- coding: UTF-8 -*- 
+
+import json, os, sys, subprocess
+
+query = sys.argv[1]
+file_name = "prompts.json"
+if not os.path.isfile(file_name):
+	with open(file_name, "w") as file:
+		json.dump([], file)
+else:
+	pass
+	
+if query == "":
+	with open("message.txt", "r") as file:
+		message_content = file.read()
+		message_data = json.loads(message_content)
+		message = message_data["message"]
+		print(message, end = "")
+else:
+	with open(file_name, "r") as file:
+		content = file.read()
+		data = json.loads(content)
+		selected_chat = data[int(query)]
+		formatted_json = json.dumps(selected_chat, indent=4, ensure_ascii=False)
+	with open("message.txt", "r") as file:
+		message_content = file.read()
+		message_data = json.loads(message_content)
+		message = message_data["message"]
+		print(message, end = "")
+	with open("selected_chat.json", "w") as file:
+		file.write(formatted_json)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>44095CB4-14EC-412F-A468-7907847B05AA</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>count</key>
+				<integer>1</integer>
+				<key>keychar</key>
+				<string>c</string>
+				<key>keycode</key>
+				<integer>-1</integer>
+				<key>keymod</key>
+				<integer>1048576</integer>
+				<key>overridewithargument</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.dispatchkeycombo</string>
+			<key>uid</key>
+			<string>2F26744A-AC7E-4136-8729-F75DEA355AB4</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<true/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>argument="${question}"
+
+osascript -e "tell application id \"com.runningwithcrayons.Alfred\" to run trigger \"gpt\" in workflow \"com.mayuzumi.immegpt\" with argument \"$argument\""</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>2DE314B6-8382-4A13-BDA0-FFC492987176</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>keyword</key>
+				<string>g</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.snippet</string>
+			<key>uid</key>
+			<string>04569950-8BD4-4325-8745-CC96F9C78BBA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Loading...</string>
+				<key>script</key>
+				<string>python3 chat_select.py</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>skipuniversalaction</key>
+				<true/>
+				<key>subtext</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Select a chat prompt.</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>46002397-D673-40A5-81E7-135F9FBCF6F8</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>count</key>
+				<integer>1</integer>
+				<key>keychar</key>
+				<string>→</string>
+				<key>keycode</key>
+				<integer>124</integer>
+				<key>keymod</key>
+				<integer>10485760</integer>
+				<key>overridewithargument</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.dispatchkeycombo</string>
+			<key>uid</key>
+			<string>2EBB91B1-D2EE-4995-A908-BC657D8CB5D8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>#!/usr/bin/env python3
+# -*- coding: UTF-8 -*- 
+
+import json, os, sys, subprocess
+
+query = sys.argv[1]
+file_name = "prompts.json"
+if not os.path.isfile(file_name):
+	with open(file_name, "w") as file:
+		json.dump([], file)
+else:
+	pass
+	
+if query == "":
+	pass
+else:
+	with open(file_name, "r") as file:
+		content = file.read()
+		data = json.loads(content)
+		selected_chat = data[int(query)]
+		formatted_json = json.dumps(selected_chat, indent=4, ensure_ascii=False)
+	with open("selected_chat.json", "w") as file:
+		file.write(formatted_json)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>6250358F-6656-4585-8600-02CE2DE9287A</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>count</key>
+				<integer>1</integer>
+				<key>keychar</key>
+				<string>↩</string>
+				<key>keycode</key>
+				<integer>36</integer>
+				<key>keymod</key>
+				<integer>0</integer>
+				<key>overridewithargument</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.dispatchkeycombo</string>
+			<key>uid</key>
+			<string>C799B616-1F85-4C57-8AE5-67581466A24C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>count</key>
+				<integer>1</integer>
+				<key>keychar</key>
+				<string>↑</string>
+				<key>keycode</key>
+				<integer>126</integer>
+				<key>keymod</key>
+				<integer>11141120</integer>
+				<key>overridewithargument</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.dispatchkeycombo</string>
+			<key>uid</key>
+			<string>07BE262F-D006-479C-84E8-F518613EE3E8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>seconds</key>
+				<string>0.5</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.delay</string>
+			<key>uid</key>
+			<string>BE7A9886-1391-41EC-8798-07F4FA334675</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>question</key>
+					<string>{clipboard:0}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>44AD4CC2-0F06-4DDB-A262-FA162CB7851C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>availableviaurlhandler</key>
+				<true/>
+				<key>triggerid</key>
+				<string>gpt</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>73E485FB-7D33-4589-9CEA-DC67D8E6A4A9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>⚠️</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>B09A5700-9D22-411B-AE9D-215815446B6B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<true/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>import subprocess, sys, os, json
+
+if os.environ["proxy_api"] != "":
+    api = os.environ["proxy_api"]
+    if os.environ["api_key"] != "":
+        key = os.environ["api_key"]
+    else:
+        print("Please set your API Key.\n请设置你的 API Key。")
+elif os.environ["proxy_api"] == "" and os.environ["api_key"] != "":
+    api = "api.openai.com"
+    key = os.environ["api_key"]
+else:
+    api = os.environ["api"]
+    key = os.environ["key"]
+model = os.environ["model"]
+message = sys.argv[1]
+try:
+    with open("selected_chat.json", "r") as file:
+        content = file.read()
+        data = json.loads(content)
+        context = data["context"]
+        temperature = data["temperature"]
+        presence_penalty = data["presence"]
+        frequency_penalty = data["frequency"]
+    cmd = ["python3", "gpt_stream.py", message, api, key, model, context, temperature, presence_penalty, frequency_penalty, "write"]
+    subprocess.run(cmd)
+except:
+    applescript_code = """
+                            tell application id "com.runningwithcrayons.Alfred" to run trigger "prompt" in workflow "com.mayuzumi.immegpt" with argument ""
+                            """
+    subprocess.run(['osascript', '-e', applescript_code])
+    sys.exit(0)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>/Users/alick/Documents/Alfred.alfredpreferences/workflows/user.workflow.E7E797CA-20ED-4606-850A-5969AAA1D86F/helper.py</string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>A80B6C17-FE4D-4DEA-A061-E5CC9D343333</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsfiles</key>
+				<true/>
+				<key>acceptsmulti</key>
+				<integer>1</integer>
+				<key>acceptstext</key>
+				<true/>
+				<key>acceptsurls</key>
+				<true/>
+				<key>name</key>
+				<string>Print answer in text feild immediatly.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.universalaction</string>
+			<key>uid</key>
+			<string>CCC8253D-F21C-466A-9529-ED292A9D4D87</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>hi</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<false/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>F5C50DB1-46A4-469C-A1D2-C819F5FA2793</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string> </string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>AE673817-E7FE-4BD7-9A43-B0B51991B8BE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>seconds</key>
+				<string>0.1</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.delay</string>
+			<key>uid</key>
+			<string>13F257D9-374F-4189-A1B9-CC099D362A59</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Hi.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>BE8422B2-A232-41FC-90B1-F077B61351E0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>availableviaurlhandler</key>
+				<true/>
+				<key>triggerid</key>
+				<string>hi</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>56FB2963-3825-4F23-B612-EAB9BBC57C4E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>hi</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>2</integer>
+				<key>runningsubtext</key>
+				<string>Thinking...</string>
+				<key>script</key>
+				<string>#!/usr/bin/env python3
+# -*- coding: UTF-8 -*- 
+
+import subprocess, json, time, os, sys
+
+current_directory = os.getcwd()
+file_name = "tmp/result.md"
+file_path = os.path.join(current_directory, file_name)
+try:
+	with open("selected_chat.json", "r") as file:
+		content = file.read()
+		data = json.loads(content)
+		file_name = data["name"]
+except:
+	applescript_code = """
+							tell application id "com.runningwithcrayons.Alfred" to run trigger "prompt" in workflow "com.mayuzumi.immegpt" with argument ""
+							"""
+	subprocess.run(['osascript', '-e', applescript_code])
+	sys.exit(0)
+query = str("""{query}""")
+output = json.dumps({"items":[{"uid":"query","title":"Current chat: " + file_name + ", ⌘ + ↩︎ to select chat, ⌥ + ↩︎ to view history.","subtitle":query,"arg":query,"quicklookurl":file_path}]})
+print(output)
+
+def check_process_exist(process_name):
+	try:
+		output = subprocess.check_output(["pgrep", process_name])
+		return True
+	except subprocess.CalledProcessError:
+		return False
+	
+def main():
+	try:
+		if check_process_exist("output"):
+			pass
+		elif not check_process_exist("popup"):
+			file = "size.txt"
+			if os.path.isfile(file):
+				with open(file, "r") as f:
+					for line in f:
+						params = line.strip().split()
+						popup_command = ['./popup'] + params
+						process = subprocess.Popen(popup_command, stdin=subprocess.DEVNULL, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, start_new_session=True)
+			else:
+				applescript_code = """
+					tell application id "com.runningwithcrayons.Alfred" to run trigger "size" in workflow "com.mayuzumi.immegpt" with argument ""
+					"""
+				subprocess.run(['osascript', '-e', applescript_code])
+				sys.exit(0)
+		else:
+			pass
+	except:
+		pass
+		
+if __name__ == '__main__':
+	main()</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Write a message...</string>
+				<key>title</key>
+				<string>I am ChatGPT.</string>
+				<key>type</key>
+				<integer>9</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>3A2121BC-4DD1-490A-AFD1-D8FAE57EE217</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<true/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>import subprocess, sys, os, json
+
+if os.environ["proxy_api"] != "":
+    api = os.environ["proxy_api"]
+    if os.environ["api_key"] != "":
+        key = os.environ["api_key"]
+    else:
+        print("Please set your API Key.\n请设置你的 API Key。")
+elif os.environ["proxy_api"] == "" and os.environ["api_key"] != "":
+    api = "api.openai.com"
+    key = os.environ["api_key"]
+else:
+    api = os.environ["api"]
+    key = os.environ["key"]
+model = os.environ["model"]
+message = sys.argv[1].lstrip()
+with open("selected_chat.json", "r") as file:
+    content = file.read()
+    data = json.loads(content)
+    context = data["context"]
+    temperature = data["temperature"]
+    presence_penalty = data["presence"]
+    frequency_penalty = data["frequency"]
+
+subprocess.run(["killall", "output", "popup"])
+
+file = "size.txt"
+if os.path.isfile(file):
+    with open(file, "r") as f:
+        lines = f.readlines()
+        for line in lines:
+            params = line.strip().split()
+            cmd = ["./output"] + params + [message, api, key, model, context, temperature, presence_penalty, frequency_penalty, "print"]
+            subprocess.run(cmd)
+else:
+    applescript_code = """
+        tell application id "com.runningwithcrayons.Alfred" to run trigger "size" in workflow "com.mayuzumi.immegpt" with argument ""
+        """
+    subprocess.run(['osascript', '-e', applescript_code])
+    sys.exit(0)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>/Users/alick/Documents/Alfred.alfredpreferences/workflows/user.workflow.E7E797CA-20ED-4606-850A-5969AAA1D86F/helper.py</string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>inboundconfig</key>
+			<dict>
+				<key>externalid</key>
+				<string>hi_chat</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>44F655EE-1FDA-4AB1-A50C-E8FCB90A267A</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>adduuid</key>
+				<false/>
+				<key>allowemptyfiles</key>
+				<true/>
+				<key>createintermediatefolders</key>
+				<false/>
+				<key>filename</key>
+				<string>message.txt</string>
+				<key>filetext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>relativepathmode</key>
+				<integer>1</integer>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.writefile</string>
+			<key>uid</key>
+			<string>11B4E6E7-7A8E-4C21-988A-F4B0AAAA8D4F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>chat</string>
+				<key>passinputasargument</key>
+				<false/>
+				<key>passvariables</key>
+				<false/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>E7111F53-E5E9-4C18-955A-593B149D2A8A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>seconds</key>
+				<string>0.1</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.delay</string>
+			<key>uid</key>
+			<string>AF44569A-DB8F-4AB5-BFC6-DF3488228155</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>#!/usr/bin/env python3
+# -*- coding: UTF-8 -*- 
+import json, sys, subprocess, os
+
+subprocess.run(["killall", "output", "popup"])
+
+try:
+	with open("selected_chat.json", "r") as file:
+		content = file.read()
+		data = json.loads(content)
+		file_name = data["name"]
+		print(file_name, end = "")
+except:
+	applescript_code = """
+			tell application id "com.runningwithcrayons.Alfred" to run trigger "prompt" in workflow "com.mayuzumi.immegpt" with argument ""
+							"""
+	subprocess.run(['osascript', '-e', applescript_code])
+	sys.exit(0)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>C5B4C6A9-3650-4B36-9711-6A9FA869266E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>history</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>E463CD1C-479D-44D6-AA80-3BD979CB1F80</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>adduuid</key>
+				<false/>
+				<key>allowemptyfiles</key>
+				<true/>
+				<key>createintermediatefolders</key>
+				<false/>
+				<key>filename</key>
+				<string>message.txt</string>
+				<key>filetext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>relativepathmode</key>
+				<integer>1</integer>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.writefile</string>
+			<key>uid</key>
+			<string>AC26F72A-97BA-40CF-A315-17C0C5C833F0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>import json, os, sys, subprocess
+
+query = sys.argv[1]
+current_directory = os.getcwd()
+folder_name = "prompt_history"
+file_name = "prompts.json"
+folder_path = os.path.join(current_directory, folder_name)
+if not os.path.exists(folder_path):
+    os.makedirs(folder_path)
+if not os.path.isfile(file_name):
+    with open(file_name, "w") as file:
+        json.dump([], file)
+else:
+    pass
+
+def new_chat(name, prompt, context, tempreture, presence, frequency):
+    file = "size.txt"
+    if os.path.isfile(file):
+        with open(file, "r") as f:
+            for line in f:
+                params = line.strip().split()
+                new_chat_command = ['./new_chat'] + params +[name, prompt, context, tempreture, presence, frequency]
+                process = subprocess.Popen(new_chat_command, stdin=subprocess.DEVNULL, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, start_new_session=True)
+    else:
+        applescript_code = """
+        tell application id "com.runningwithcrayons.Alfred" to run trigger "size" in workflow "com.mayuzumi.immegpt" with argument ""
+        """
+        subprocess.run(['osascript', '-e', applescript_code])
+        sys.exit(0)
+    
+if query == "new":
+    new_chat("nil", "nil", os.environ["context"], os.environ["temperature"], os.environ["presence_penalty"], os.environ["frequency_penalty"])
+else:
+    with open("presets.json", "r") as file:
+        content = file.read()
+        data = json.loads(content)
+        name = data[int(query)]["name"]
+        content = data[int(query)]["content"]
+        new_chat(name, content, os.environ["context"], os.environ["temperature"], os.environ["presence_penalty"], os.environ["frequency_penalty"])</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>4DC0108C-D9F6-4125-A307-86CBD80C1664</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>new</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Loading...</string>
+				<key>script</key>
+				<string>import json, os, shutil, subprocess
+
+subprocess.run(["killall", "output", "popup"])
+
+current_directory = os.getcwd()
+folder_name = "tmp"
+folder_path = os.path.join(current_directory, folder_name)
+if not os.path.exists(folder_path):
+    os.makedirs(folder_path)
+else:
+    shutil.rmtree(folder_path)
+    os.makedirs(folder_path)
+
+with open("presets.json", "r") as file:
+    content = file.read()
+    data = json.loads(content)
+    
+output = [{"uid":"new","title":"Create new prompt", "subtitle":"Input prompt name","arg":"new","icon":{"path":"_new.png"}}]
+for item in data:
+    name = item["name"]
+    content = item["content"]
+    prompt_index = int(data.index(item))
+    file_md = str(name) + ".md"
+    file_md = os.path.join(folder_path, file_md)
+    with open(file_md, "w") as file:
+        file.write(content)
+    output_item = [{"uid":"prompt","title":name,"subtitle":content,"arg":prompt_index,"quicklookurl":file_md}]
+    output += output_item
+
+output = json.dumps({"items":output})    
+print(output)</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>skipuniversalaction</key>
+				<true/>
+				<key>subtext</key>
+				<string>Please input title or select one preset.</string>
+				<key>title</key>
+				<string>Create your prompt.</string>
+				<key>type</key>
+				<integer>9</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>inboundconfig</key>
+			<dict>
+				<key>externalid</key>
+				<string>prompt</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>35E7AD98-68E7-4A52-8C5A-BD5439F775C1</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>seconds</key>
+				<string>0.1</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.delay</string>
+			<key>uid</key>
+			<string>38545853-898C-4095-A68B-33C1C6F01CA9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>var1</key>
+					<string>{query}</string>
+					<key>var_label</key>
+					<string>*hi*</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>266FF0C5-E796-417C-BB4A-EED6617FFDB7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>import json, os, sys, subprocess
+
+query = os.environ["var2"]
+current_directory = os.getcwd()
+folder_name = "prompt_history"
+file_name = "prompts.json"
+folder_path = os.path.join(current_directory, folder_name)
+if not os.path.exists(folder_path):
+    os.makedirs(folder_path)
+if not os.path.isfile(file_name):
+    with open(file_name, "w") as file:
+        json.dump([], file)
+else:
+    pass
+
+def edit_chat(name, prompt, context, tempreture, presence, frequency):
+    file = "size.txt"
+    if os.path.isfile(file):
+        with open(file, "r") as f:
+            for line in f:
+                params = line.strip().split()
+                new_chat_command = ['./edit_chat'] + params +[name, prompt, context, tempreture, presence, frequency]
+                process = subprocess.Popen(new_chat_command, stdin=subprocess.DEVNULL, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, start_new_session=True)
+                process.wait()
+    else:
+        applescript_code = """
+        tell application id "com.runningwithcrayons.Alfred" to run trigger "size" in workflow "com.mayuzumi.immegpt" with argument ""
+        """
+        subprocess.run(['osascript', '-e', applescript_code])
+        exit(0)
+    
+
+with open(file_name, "r") as file:
+    content = file.read()
+    data = json.loads(content)
+    name = data[int(query)]["name"]
+    content = data[int(query)]["content"]
+    context = data[int(query)]["context"]
+    temperature = data[int(query)]["temperature"]
+    presence = data[int(query)]["presence"]
+    frequency = data[int(query)]["frequency"]
+    edit_chat(name, content, context, temperature, presence, frequency)
+
+try:
+    with open("tmp/prompt_tmp.json", "r") as file:
+        chat_content = file.read()
+        chat_data = json.loads(chat_content)
+        data[int(query)] = chat_data
+        formatted_json = json.dumps(data, indent=4, ensure_ascii=False)
+        with open(file_name, "w") as file:
+            file.write(formatted_json)
+        chat_name = chat_data["name"]
+        prompt_content = chat_data["content"]
+        old_file_name = "prompt_history/" + name + ".json"
+        new_file_name = "prompt_history/" + chat_name + ".json"
+        old_file = os.path.join(current_directory, old_file_name)
+        new_file = os.path.join(current_directory, new_file_name)
+        os.rename(old_file, new_file)
+
+    with open(new_file, "r") as file:
+        history_content = file.read()
+        history_data = json.loads(history_content)
+        history_data[0]["content"] = prompt_content
+        formatted_json = json.dumps(history_data, indent=4, ensure_ascii=False)
+        with open(new_file, "w") as file:
+            file.write(formatted_json)
+except:
+    exit()</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>5C9D7762-30C0-44CB-B3DC-F12138F9A291</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string></string>
+						<key>uid</key>
+						<string>F57C911A-F44D-463B-A802-E21AE3306558</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>E9A1E86E-9620-4711-9596-64637CCC5715</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>;</string>
+				<key>discardemptyarguments</key>
+				<false/>
+				<key>outputas</key>
+				<integer>0</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>var</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>1452A09E-F807-4BD2-8D7A-E32F1E3BA658</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>prompt</string>
+				<key>passinputasargument</key>
+				<false/>
+				<key>passvariables</key>
+				<false/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>3E98F246-82C9-452A-8DE1-1AF52A982EAA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>\</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Loading...</string>
+				<key>script</key>
+				<string>#!/usr/bin/env python3
+# -*- coding: UTF-8 -*- 
+import json, sys, os, shutil, subprocess
+
+subprocess.run(["killall", "output", "popup"])
+
+try:
+	with open("prompts.json", "r") as file:
+		content = file.read()
+		data = json.loads(content)
+except FileNotFoundError:
+	data = []
+
+current_directory = os.getcwd()
+folder_name = "tmp"
+folder_path = os.path.join(current_directory, folder_name)
+if not os.path.exists(folder_path):
+	os.makedirs(folder_path)
+else:
+	shutil.rmtree(folder_path)
+	os.makedirs(folder_path)
+
+
+output_items = [{"uid":"No Chat","title":"Start a new chat.","subtitle":"Select a prompt.","arg":"","icon":{"path":"_new_chat.png"}}]
+if len(data) != 0:
+	for item in data:
+		title = item["name"]
+		subtitle = item["content"]
+		file_index = int(data.index(item))
+		file_md = str(title) + ".md"
+		file_md = os.path.join(folder_path, file_md)
+		with open(file_md, "w") as file:
+			file.write(subtitle)
+		output_item = [{"uid":"history_item","title":title,"subtitle":"Enter to Chat, with ⌘ to delete, with ⌥ to view history, with ⌃ to edit, ⇧ to preview prompt.","arg":str(title) + ";" + str(file_index),"quicklookurl":file_md}]
+		output_items += output_item
+	output = json.dumps({"items":output_items})
+else:
+	output = json.dumps({"items":output_items})
+print(output)</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>skipuniversalaction</key>
+				<true/>
+				<key>subtext</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Start or delete Chat.</string>
+				<key>type</key>
+				<integer>9</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>inboundconfig</key>
+			<dict>
+				<key>externalid</key>
+				<string>chat</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>60808EB7-1EFF-49D8-BF38-52C0C2DD7126</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string></string>
+						<key>uid</key>
+						<string>F57C911A-F44D-463B-A802-E21AE3306558</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>054102C5-AA53-40AE-B841-D82CC65A2B68</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>hi</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>D52F2B56-A4EA-40F1-88D3-8C565A8F63A1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<true/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>try:
+	with open("message.txt", "r") as file:
+		message = file.read()
+		print(message, end = "")
+		
+	with open("message.txt", "w") as file:
+		file.write("")
+except:
+	pass</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>046D3D10-6E11-4AD7-A0CF-DD51F42EDA7D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>;</string>
+				<key>discardemptyarguments</key>
+				<false/>
+				<key>outputas</key>
+				<integer>0</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>var</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>F9B1728D-2966-4B71-A3FA-CE89AB610575</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string></string>
+						<key>uid</key>
+						<string>F57C911A-F44D-463B-A802-E21AE3306558</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>94A420B7-1C45-4F9B-9885-4170ACFCB5E9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>import json, os, sys, subprocess
+
+query = os.environ["var2"]
+file_name = "prompts.json"
+if not os.path.isfile(file_name):
+    with open(file_name, "w") as file:
+        json.dump([], file)
+else:
+    pass
+
+with open(file_name, "r") as file:
+    content = file.read()
+    data = json.loads(content)
+    selected_chat = data[int(query)]
+    formatted_json = json.dumps(selected_chat, indent=4, ensure_ascii=False)
+    with open("selected_chat.json", "w") as file:
+        file.write(formatted_json)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>16E07E2E-7746-4886-8F45-CD96E7248F55</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<true/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>#!/usr/bin/env python3
+# -*- coding: UTF-8 -*- 
+
+import json, os
+
+number = os.environ["var2"]
+current_directory = os.getcwd()
+folder_name = "prompt_history"
+folder_path = os.path.join(current_directory, folder_name)
+
+file_name = "prompts.json"
+
+try:
+	with open(file_name, "r") as file:
+		content = file.read()
+		data = json.loads(content)
+except FileNotFoundError:
+	data = []
+
+chat_name = str(data[int(number)]["name"]) + ".json"
+chat_path = os.path.join(folder_path, chat_name)
+del data[int(number)]
+try:
+	os.remove(chat_path)
+except OSError as e:
+	pass
+
+formatted_json = json.dumps(data, indent=4, ensure_ascii=False)
+with open(file_name, "w") as file:
+	file.write(formatted_json)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>502539B2-0FFB-4CF4-A7A4-78BF1B588C45</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<true/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>try:
+	with open("message.txt", "r") as file:
+		message = file.read()
+		print(message, end = "")
+		
+	with open("message.txt", "w") as file:
+		file.write("")
+except:
+	pass</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>4A2E2E7A-129E-43BE-954C-0239D4F5325E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>hi</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>54AC1212-B93B-4E08-BE82-84A55B8CC19D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>;</string>
+				<key>discardemptyarguments</key>
+				<false/>
+				<key>outputas</key>
+				<integer>0</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>var</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>30C70893-ED69-465D-B7D8-8D76E6411200</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>chat</string>
+				<key>passinputasargument</key>
+				<false/>
+				<key>passvariables</key>
+				<false/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>A231F83C-B5BD-4331-AD68-18C9D3F22AA3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>history</string>
+				<key>passinputasargument</key>
+				<false/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>48A25676-238D-4F27-90A8-E49D8C027B6B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>2</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Loading...</string>
+				<key>script</key>
+				<string>#!/usr/bin/env python3
+# -*- coding: UTF-8 -*- 
+import json, sys, os, shutil
+			
+#预设
+current_directory = os.getcwd()
+hi_icon_name = "3A2121BC-4DD1-490A-AFD1-D8FAE57EE217.png"
+chat_icon_name = "60808EB7-1EFF-49D8-BF38-52C0C2DD7126.png"
+hi_icon_path = os.path.join(current_directory, hi_icon_name)
+chat_icon_path = os.path.join(current_directory, chat_icon_name)
+name = os.environ["var1"]
+arg = os.environ["var_label"]
+file_name = "prompt_history/" + name + ".json"
+
+current_directory = os.getcwd()
+folder_name = "tmp"
+folder_path = os.path.join(current_directory, folder_name)
+if not os.path.exists(folder_path):
+	os.makedirs(folder_path)
+else:
+	shutil.rmtree(folder_path)
+	os.makedirs(folder_path)
+
+
+try:
+	with open(file_name, "r") as file:
+		content = file.read()
+		history = json.loads(content)
+except FileNotFoundError:
+	pass
+if arg == "*hi*":
+	output_items = [{"uid":"back","title":"Back","subtitle":"Back to last level.","arg":"*hi*", "icon":{"path":hi_icon_path}}]
+elif arg == "*chat*":
+	output_items = [{"uid":"back","title":"Back","subtitle":"Back to last level.","arg":"*chat*", "icon":{"path":chat_icon_path}}]
+else:
+	output_items = []
+for item in history:
+	if item["role"] == "user":
+		title = item["content"]
+	elif item["role"] == "assistant":
+		subtitle = item["content"]
+		file_title = int((history.index(item) + 1) / 2)
+		file_md = str(file_title) + ".md"
+		file_md = os.path.join(folder_path, file_md)
+		with open(file_md, "w") as file:
+			file.write(subtitle)
+		output_item = [{"uid":"history_item","title":title,"subtitle":"Press Enter key to delete, Shift key to preview.","arg":str(name) + ";" + str(file_title),"quicklookurl":file_md}]
+		output_items += output_item
+output = json.dumps({"items":output_items})
+print(output)</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>skipuniversalaction</key>
+				<true/>
+				<key>subtext</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Chat history contexts.</string>
+				<key>type</key>
+				<integer>9</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>inboundconfig</key>
+			<dict>
+				<key>externalid</key>
+				<string>history</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>3F380C6D-995B-464A-96B8-0E62C1F2B269</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>*hi*</string>
+						<key>outputlabel</key>
+						<string>hi</string>
+						<key>uid</key>
+						<string>C53A25AE-E10F-4772-B30D-741EE61F2B6B</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>*chat*</string>
+						<key>outputlabel</key>
+						<string>chat</string>
+						<key>uid</key>
+						<string>DE47D6EE-B7E6-41D7-88F1-460F5045206C</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>B6C6E04D-A3FF-4C95-9AF6-C22C1FD20D8F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string></string>
+						<key>uid</key>
+						<string>F57C911A-F44D-463B-A802-E21AE3306558</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>EF993401-9254-4FF0-920C-938C301D1BC6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>;</string>
+				<key>discardemptyarguments</key>
+				<false/>
+				<key>outputas</key>
+				<integer>0</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>var</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>00A127ED-D1BF-432C-8F30-327E24408B70</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>var1</key>
+					<string>{var:var1}</string>
+					<key>var_label</key>
+					<string>*chat*</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>7F05F172-F607-42AC-AA0D-B5885D74057B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<true/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>#!/usr/bin/env python3
+# -*- coding: UTF-8 -*- 
+
+import json, os
+
+name = os.environ["var1"]
+file_name = "prompt_history/" + name + ".json"
+index = os.environ["var2"]
+
+try:
+	with open(file_name, "r") as file:
+		content = file.read()
+		history = json.loads(content)
+except FileNotFoundError:
+	history = []
+
+del history[int(index)*2-1:(int(index)+1)*2-1]
+
+with open(file_name, "w") as file:
+	json.dump(history, file, indent=4, ensure_ascii=False)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>80C81086-47B4-44D4-9E49-E26BABA13EEE</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>;</string>
+				<key>discardemptyarguments</key>
+				<false/>
+				<key>outputas</key>
+				<integer>0</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>var</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>57C43E92-06B6-421D-BB4F-750D2F2F28DA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>history</string>
+				<key>passinputasargument</key>
+				<false/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>352F3C1B-2BFB-4D7B-B632-CF0DBE9DAED0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>seconds</key>
+				<string>0.1</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.delay</string>
+			<key>uid</key>
+			<string>AF183C5F-86E8-449C-8810-2A30092CF6E3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>If you use the OpenAI api, just fill the `API Key` field.
+If you use the Proxy api, fill the `API Key` and `Customised API` field both.</string>
+	<key>uidata</key>
+	<dict>
+		<key>00A127ED-D1BF-432C-8F30-327E24408B70</key>
+		<dict>
+			<key>xpos</key>
+			<real>340</real>
+			<key>ypos</key>
+			<real>2160</real>
+		</dict>
+		<key>04569950-8BD4-4325-8745-CC96F9C78BBA</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>Type this after the question, the question must in a paragraph.</string>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>225</real>
+		</dict>
+		<key>046D3D10-6E11-4AD7-A0CF-DD51F42EDA7D</key>
+		<dict>
+			<key>xpos</key>
+			<real>470</real>
+			<key>ypos</key>
+			<real>1660</real>
+		</dict>
+		<key>054102C5-AA53-40AE-B841-D82CC65A2B68</key>
+		<dict>
+			<key>xpos</key>
+			<real>235</real>
+			<key>ypos</key>
+			<real>1555</real>
+		</dict>
+		<key>07BE262F-D006-479C-84E8-F518613EE3E8</key>
+		<dict>
+			<key>xpos</key>
+			<real>545</real>
+			<key>ypos</key>
+			<real>225</real>
+		</dict>
+		<key>11B4E6E7-7A8E-4C21-988A-F4B0AAAA8D4F</key>
+		<dict>
+			<key>xpos</key>
+			<real>655</real>
+			<key>ypos</key>
+			<real>975</real>
+		</dict>
+		<key>13F257D9-374F-4189-A1B9-CC099D362A59</key>
+		<dict>
+			<key>xpos</key>
+			<real>510</real>
+			<key>ypos</key>
+			<real>720</real>
+		</dict>
+		<key>1452A09E-F807-4BD2-8D7A-E32F1E3BA658</key>
+		<dict>
+			<key>xpos</key>
+			<real>345</real>
+			<key>ypos</key>
+			<real>1425</real>
+		</dict>
+		<key>16E07E2E-7746-4886-8F45-CD96E7248F55</key>
+		<dict>
+			<key>xpos</key>
+			<real>465</real>
+			<key>ypos</key>
+			<real>1805</real>
+		</dict>
+		<key>266FF0C5-E796-417C-BB4A-EED6617FFDB7</key>
+		<dict>
+			<key>xpos</key>
+			<real>815</real>
+			<key>ypos</key>
+			<real>1155</real>
+		</dict>
+		<key>2DE314B6-8382-4A13-BDA0-FFC492987176</key>
+		<dict>
+			<key>xpos</key>
+			<real>1350</real>
+			<key>ypos</key>
+			<real>225</real>
+		</dict>
+		<key>2EBB91B1-D2EE-4995-A908-BC657D8CB5D8</key>
+		<dict>
+			<key>xpos</key>
+			<real>855</real>
+			<key>ypos</key>
+			<real>225</real>
+		</dict>
+		<key>2F26744A-AC7E-4136-8729-F75DEA355AB4</key>
+		<dict>
+			<key>xpos</key>
+			<real>700</real>
+			<key>ypos</key>
+			<real>225</real>
+		</dict>
+		<key>30C70893-ED69-465D-B7D8-8D76E6411200</key>
+		<dict>
+			<key>xpos</key>
+			<real>390</real>
+			<key>ypos</key>
+			<real>1955</real>
+		</dict>
+		<key>34DE72C7-333A-4A0F-842C-2A5349A5794B</key>
+		<dict>
+			<key>xpos</key>
+			<real>545</real>
+			<key>ypos</key>
+			<real>15</real>
+		</dict>
+		<key>352F3C1B-2BFB-4D7B-B632-CF0DBE9DAED0</key>
+		<dict>
+			<key>xpos</key>
+			<real>1115</real>
+			<key>ypos</key>
+			<real>2325</real>
+		</dict>
+		<key>35E7AD98-68E7-4A52-8C5A-BD5439F775C1</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>Choose or create your prompt.</string>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>1145</real>
+		</dict>
+		<key>38545853-898C-4095-A68B-33C1C6F01CA9</key>
+		<dict>
+			<key>xpos</key>
+			<real>885</real>
+			<key>ypos</key>
+			<real>1155</real>
+		</dict>
+		<key>3A2121BC-4DD1-490A-AFD1-D8FAE57EE217</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>Show answer under the input box.</string>
+			<key>xpos</key>
+			<real>240</real>
+			<key>ypos</key>
+			<real>825</real>
+		</dict>
+		<key>3E98F246-82C9-452A-8DE1-1AF52A982EAA</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>Create new chat.</string>
+			<key>xpos</key>
+			<real>470</real>
+			<key>ypos</key>
+			<real>1520</real>
+		</dict>
+		<key>3F380C6D-995B-464A-96B8-0E62C1F2B269</key>
+		<dict>
+			<key>xpos</key>
+			<real>655</real>
+			<key>ypos</key>
+			<real>2130</real>
+		</dict>
+		<key>44095CB4-14EC-412F-A468-7907847B05AA</key>
+		<dict>
+			<key>xpos</key>
+			<real>725</real>
+			<key>ypos</key>
+			<real>15</real>
+		</dict>
+		<key>44AD4CC2-0F06-4DDB-A262-FA162CB7851C</key>
+		<dict>
+			<key>xpos</key>
+			<real>1265</real>
+			<key>ypos</key>
+			<real>255</real>
+		</dict>
+		<key>44F655EE-1FDA-4AB1-A50C-E8FCB90A267A</key>
+		<dict>
+			<key>xpos</key>
+			<real>650</real>
+			<key>ypos</key>
+			<real>825</real>
+		</dict>
+		<key>46002397-D673-40A5-81E7-135F9FBCF6F8</key>
+		<dict>
+			<key>xpos</key>
+			<real>195</real>
+			<key>ypos</key>
+			<real>225</real>
+		</dict>
+		<key>48A25676-238D-4F27-90A8-E49D8C027B6B</key>
+		<dict>
+			<key>xpos</key>
+			<real>475</real>
+			<key>ypos</key>
+			<real>2130</real>
+		</dict>
+		<key>4A2E2E7A-129E-43BE-954C-0239D4F5325E</key>
+		<dict>
+			<key>xpos</key>
+			<real>950</real>
+			<key>ypos</key>
+			<real>1930</real>
+		</dict>
+		<key>4DC0108C-D9F6-4125-A307-86CBD80C1664</key>
+		<dict>
+			<key>xpos</key>
+			<real>210</real>
+			<key>ypos</key>
+			<real>1145</real>
+		</dict>
+		<key>502539B2-0FFB-4CF4-A7A4-78BF1B588C45</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>note</key>
+			<string>Press command key and enter to delete selected chat and prompt.</string>
+			<key>xpos</key>
+			<real>465</real>
+			<key>ypos</key>
+			<real>1925</real>
+		</dict>
+		<key>54AC1212-B93B-4E08-BE82-84A55B8CC19D</key>
+		<dict>
+			<key>xpos</key>
+			<real>1115</real>
+			<key>ypos</key>
+			<real>1930</real>
+		</dict>
+		<key>56FB2963-3825-4F23-B612-EAB9BBC57C4E</key>
+		<dict>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>825</real>
+		</dict>
+		<key>57C43E92-06B6-421D-BB4F-750D2F2F28DA</key>
+		<dict>
+			<key>xpos</key>
+			<real>890</real>
+			<key>ypos</key>
+			<real>2190</real>
+		</dict>
+		<key>5C9D7762-30C0-44CB-B3DC-F12138F9A291</key>
+		<dict>
+			<key>xpos</key>
+			<real>470</real>
+			<key>ypos</key>
+			<real>1395</real>
+		</dict>
+		<key>60808EB7-1EFF-49D8-BF38-52C0C2DD7126</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>3</integer>
+			<key>note</key>
+			<string>Select a chat.</string>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>1535</real>
+		</dict>
+		<key>6250358F-6656-4585-8600-02CE2DE9287A</key>
+		<dict>
+			<key>xpos</key>
+			<real>375</real>
+			<key>ypos</key>
+			<real>225</real>
+		</dict>
+		<key>73E485FB-7D33-4589-9CEA-DC67D8E6A4A9</key>
+		<dict>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>400</real>
+		</dict>
+		<key>7F05F172-F607-42AC-AA0D-B5885D74057B</key>
+		<dict>
+			<key>xpos</key>
+			<real>405</real>
+			<key>ypos</key>
+			<real>2160</real>
+		</dict>
+		<key>80C81086-47B4-44D4-9E49-E26BABA13EEE</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>2</integer>
+			<key>note</key>
+			<string>Press enter key to delete selected history record.</string>
+			<key>xpos</key>
+			<real>1115</real>
+			<key>ypos</key>
+			<real>2160</real>
+		</dict>
+		<key>928B58A7-CE6F-4AD2-B423-814586F3F68A</key>
+		<dict>
+			<key>xpos</key>
+			<real>210</real>
+			<key>ypos</key>
+			<real>15</real>
+		</dict>
+		<key>94A420B7-1C45-4F9B-9885-4170ACFCB5E9</key>
+		<dict>
+			<key>xpos</key>
+			<real>275</real>
+			<key>ypos</key>
+			<real>1790</real>
+		</dict>
+		<key>9D885433-0788-477A-AA27-3516AAFA1D1D</key>
+		<dict>
+			<key>xpos</key>
+			<real>375</real>
+			<key>ypos</key>
+			<real>15</real>
+		</dict>
+		<key>A231F83C-B5BD-4331-AD68-18C9D3F22AA3</key>
+		<dict>
+			<key>xpos</key>
+			<real>1115</real>
+			<key>ypos</key>
+			<real>2045</real>
+		</dict>
+		<key>A80B6C17-FE4D-4DEA-A061-E5CC9D343333</key>
+		<dict>
+			<key>xpos</key>
+			<real>440</real>
+			<key>ypos</key>
+			<real>525</real>
+		</dict>
+		<key>AC26F72A-97BA-40CF-A315-17C0C5C833F0</key>
+		<dict>
+			<key>xpos</key>
+			<real>490</real>
+			<key>ypos</key>
+			<real>1125</real>
+		</dict>
+		<key>AE673817-E7FE-4BD7-9A43-B0B51991B8BE</key>
+		<dict>
+			<key>xpos</key>
+			<real>625</real>
+			<key>ypos</key>
+			<real>720</real>
+		</dict>
+		<key>AF183C5F-86E8-449C-8810-2A30092CF6E3</key>
+		<dict>
+			<key>xpos</key>
+			<real>1010</real>
+			<key>ypos</key>
+			<real>2355</real>
+		</dict>
+		<key>AF44569A-DB8F-4AB5-BFC6-DF3488228155</key>
+		<dict>
+			<key>xpos</key>
+			<real>800</real>
+			<key>ypos</key>
+			<real>1005</real>
+		</dict>
+		<key>B09A5700-9D22-411B-AE9D-215815446B6B</key>
+		<dict>
+			<key>xpos</key>
+			<real>665</real>
+			<key>ypos</key>
+			<real>525</real>
+		</dict>
+		<key>B6C6E04D-A3FF-4C95-9AF6-C22C1FD20D8F</key>
+		<dict>
+			<key>xpos</key>
+			<real>810</real>
+			<key>ypos</key>
+			<real>2135</real>
+		</dict>
+		<key>BE7A9886-1391-41EC-8798-07F4FA334675</key>
+		<dict>
+			<key>xpos</key>
+			<real>1190</real>
+			<key>ypos</key>
+			<real>255</real>
+		</dict>
+		<key>BE8422B2-A232-41FC-90B1-F077B61351E0</key>
+		<dict>
+			<key>xpos</key>
+			<real>870</real>
+			<key>ypos</key>
+			<real>825</real>
+		</dict>
+		<key>C56AB6EA-BA7B-4606-B673-14B4CD256871</key>
+		<dict>
+			<key>xpos</key>
+			<real>910</real>
+			<key>ypos</key>
+			<real>15</real>
+		</dict>
+		<key>C5B4C6A9-3650-4B36-9711-6A9FA869266E</key>
+		<dict>
+			<key>xpos</key>
+			<real>655</real>
+			<key>ypos</key>
+			<real>1125</real>
+		</dict>
+		<key>C799B616-1F85-4C57-8AE5-67581466A24C</key>
+		<dict>
+			<key>xpos</key>
+			<real>1015</real>
+			<key>ypos</key>
+			<real>225</real>
+		</dict>
+		<key>CCC8253D-F21C-466A-9529-ED292A9D4D87</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>note</key>
+			<string>Print answer to editor text feild immediatly.</string>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>525</real>
+		</dict>
+		<key>D52F2B56-A4EA-40F1-88D3-8C565A8F63A1</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>Start chat.</string>
+			<key>xpos</key>
+			<real>660</real>
+			<key>ypos</key>
+			<real>1660</real>
+		</dict>
+		<key>E463CD1C-479D-44D6-AA80-3BD979CB1F80</key>
+		<dict>
+			<key>xpos</key>
+			<real>970</real>
+			<key>ypos</key>
+			<real>1125</real>
+		</dict>
+		<key>E7111F53-E5E9-4C18-955A-593B149D2A8A</key>
+		<dict>
+			<key>xpos</key>
+			<real>870</real>
+			<key>ypos</key>
+			<real>975</real>
+		</dict>
+		<key>E9A1E86E-9620-4711-9596-64637CCC5715</key>
+		<dict>
+			<key>xpos</key>
+			<real>245</real>
+			<key>ypos</key>
+			<real>1425</real>
+		</dict>
+		<key>EF993401-9254-4FF0-920C-938C301D1BC6</key>
+		<dict>
+			<key>xpos</key>
+			<real>240</real>
+			<key>ypos</key>
+			<real>2135</real>
+		</dict>
+		<key>F5C50DB1-46A4-469C-A1D2-C819F5FA2793</key>
+		<dict>
+			<key>xpos</key>
+			<real>745</real>
+			<key>ypos</key>
+			<real>690</real>
+		</dict>
+		<key>F9B1728D-2966-4B71-A3FA-CE89AB610575</key>
+		<dict>
+			<key>xpos</key>
+			<real>335</real>
+			<key>ypos</key>
+			<real>1690</real>
+		</dict>
+		<key>FDCA1704-30BF-4FE6-90E3-1C97AB138AE7</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>note</key>
+			<string>Initial the popup size and position.</string>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>15</real>
+		</dict>
+	</dict>
+	<key>userconfigurationconfig</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>api.xyhelper.cn</string>
+				<key>pairs</key>
+				<array>
+					<array>
+						<string>xyhelper</string>
+						<string>api.xyhelper.cn</string>
+					</array>
+				</array>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>API</string>
+			<key>type</key>
+			<string>popupbutton</string>
+			<key>variable</key>
+			<string>api</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>sk-api-xyhelper-cn-free-token-for-everyone-xyhelper</string>
+				<key>pairs</key>
+				<array>
+					<array>
+						<string>xyhelper</string>
+						<string>sk-api-xyhelper-cn-free-token-for-everyone-xyhelper</string>
+					</array>
+				</array>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>KEY</string>
+			<key>type</key>
+			<string>popupbutton</string>
+			<key>variable</key>
+			<string>key</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>gpt-3.5-turbo</string>
+				<key>pairs</key>
+				<array>
+					<array>
+						<string>gpt-3.5-turbo</string>
+						<string>gpt-3.5-turbo</string>
+					</array>
+					<array>
+						<string>gpt-3.5-turbo-0613</string>
+						<string>gpt-3.5-turbo-0613</string>
+					</array>
+					<array>
+						<string>gpt-3.5-turbo-16k</string>
+						<string>gpt-3.5-turbo-16k</string>
+					</array>
+					<array>
+						<string>gpt-3.5-turbo-16k-0613</string>
+						<string>gpt-3.5-turbo-16k-0613</string>
+					</array>
+					<array>
+						<string>gpt-3.5-turbo-0301</string>
+						<string>gpt-3.5-turbo-0301</string>
+					</array>
+					<array>
+						<string>gpt-4</string>
+						<string>gpt-4</string>
+					</array>
+					<array>
+						<string>gpt-4-0314</string>
+						<string>gpt-4-0314</string>
+					</array>
+					<array>
+						<string>gpt-4-0613</string>
+						<string>gpt-4-0613</string>
+					</array>
+					<array>
+						<string>gpt-4-32k</string>
+						<string>gpt-4-32k</string>
+					</array>
+					<array>
+						<string>gpt-4-32k-0314</string>
+						<string>gpt-4-32k-0314</string>
+					</array>
+					<array>
+						<string>net-gpt-3.5-turbo-16k</string>
+						<string>net-gpt-3.5-turbo-16k</string>
+					</array>
+					<array>
+						<string>net-gpt-4</string>
+						<string>net-gpt-4</string>
+					</array>
+					<array>
+						<string>claude-2-100k</string>
+						<string>claude-2-100k</string>
+					</array>
+				</array>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>MODEL</string>
+			<key>type</key>
+			<string>popupbutton</string>
+			<key>variable</key>
+			<string>model</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>0</string>
+				<key>pairs</key>
+				<array>
+					<array>
+						<string>0</string>
+						<string>0</string>
+					</array>
+					<array>
+						<string>1</string>
+						<string>1</string>
+					</array>
+					<array>
+						<string>2</string>
+						<string>2</string>
+					</array>
+					<array>
+						<string>3</string>
+						<string>3</string>
+					</array>
+					<array>
+						<string>4</string>
+						<string>4</string>
+					</array>
+					<array>
+						<string>5</string>
+						<string>5</string>
+					</array>
+					<array>
+						<string>6</string>
+						<string>6</string>
+					</array>
+					<array>
+						<string>7</string>
+						<string>7</string>
+					</array>
+					<array>
+						<string>8</string>
+						<string>8</string>
+					</array>
+					<array>
+						<string>9</string>
+						<string>9</string>
+					</array>
+					<array>
+						<string>10</string>
+						<string>10</string>
+					</array>
+					<array>
+						<string>11</string>
+						<string>11</string>
+					</array>
+					<array>
+						<string>12</string>
+						<string>12</string>
+					</array>
+					<array>
+						<string>13</string>
+						<string>13</string>
+					</array>
+					<array>
+						<string>14</string>
+						<string>14</string>
+					</array>
+					<array>
+						<string>15</string>
+						<string>15</string>
+					</array>
+					<array>
+						<string>16</string>
+						<string>16</string>
+					</array>
+					<array>
+						<string>17</string>
+						<string>17</string>
+					</array>
+					<array>
+						<string>18</string>
+						<string>18</string>
+					</array>
+					<array>
+						<string>19</string>
+						<string>19</string>
+					</array>
+					<array>
+						<string>20</string>
+						<string>20</string>
+					</array>
+				</array>
+			</dict>
+			<key>description</key>
+			<string>Chat context length you want chatgpt to remember. 需要记住的上下文长度。</string>
+			<key>label</key>
+			<string>CONTEXT LENGTH</string>
+			<key>type</key>
+			<string>popupbutton</string>
+			<key>variable</key>
+			<string>context</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>0.5</string>
+				<key>pairs</key>
+				<array>
+					<array>
+						<string>0.0</string>
+						<string>0.0</string>
+					</array>
+					<array>
+						<string>0.1</string>
+						<string>0.1</string>
+					</array>
+					<array>
+						<string>0.2</string>
+						<string>0.2</string>
+					</array>
+					<array>
+						<string>0.3</string>
+						<string>0.3</string>
+					</array>
+					<array>
+						<string>0.4</string>
+						<string>0.4</string>
+					</array>
+					<array>
+						<string>0.5</string>
+						<string>0.5</string>
+					</array>
+					<array>
+						<string>0.6</string>
+						<string>0.6</string>
+					</array>
+					<array>
+						<string>0.7</string>
+						<string>0.7</string>
+					</array>
+					<array>
+						<string>0.8</string>
+						<string>0.8</string>
+					</array>
+					<array>
+						<string>0.9</string>
+						<string>0.9</string>
+					</array>
+					<array>
+						<string>1.0</string>
+						<string>1.0</string>
+					</array>
+				</array>
+			</dict>
+			<key>description</key>
+			<string>A larger value makes the more random output. 值越大，回复越随机。</string>
+			<key>label</key>
+			<string>TEMPERATURE</string>
+			<key>type</key>
+			<string>popupbutton</string>
+			<key>variable</key>
+			<string>temperature</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>0.0</string>
+				<key>pairs</key>
+				<array>
+					<array>
+						<string>0.0</string>
+						<string>0.0</string>
+					</array>
+					<array>
+						<string>0.1</string>
+						<string>0.1</string>
+					</array>
+					<array>
+						<string>0.2</string>
+						<string>0.2</string>
+					</array>
+					<array>
+						<string>0.3</string>
+						<string>0.3</string>
+					</array>
+					<array>
+						<string>0.4</string>
+						<string>0.4</string>
+					</array>
+					<array>
+						<string>0.5</string>
+						<string>0.5</string>
+					</array>
+					<array>
+						<string>0.6</string>
+						<string>0.6</string>
+					</array>
+					<array>
+						<string>0.7</string>
+						<string>0.7</string>
+					</array>
+					<array>
+						<string>0.8</string>
+						<string>0.8</string>
+					</array>
+					<array>
+						<string>0.9</string>
+						<string>0.9</string>
+					</array>
+					<array>
+						<string>1.0</string>
+						<string>1.0</string>
+					</array>
+				</array>
+			</dict>
+			<key>description</key>
+			<string>A larger value increases the likelihood to talk about new topics. 值越大，越有可能扩展到新话题。</string>
+			<key>label</key>
+			<string>PRESENCE PENALTY</string>
+			<key>type</key>
+			<string>popupbutton</string>
+			<key>variable</key>
+			<string>presence_penalty</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>0.0</string>
+				<key>pairs</key>
+				<array>
+					<array>
+						<string>0.0</string>
+						<string>0.0</string>
+					</array>
+					<array>
+						<string>0.1</string>
+						<string>0.1</string>
+					</array>
+					<array>
+						<string>0.2</string>
+						<string>0.2</string>
+					</array>
+					<array>
+						<string>0.3</string>
+						<string>0.3</string>
+					</array>
+					<array>
+						<string>0.4</string>
+						<string>0.4</string>
+					</array>
+					<array>
+						<string>0.5</string>
+						<string>0.5</string>
+					</array>
+					<array>
+						<string>0.6</string>
+						<string>0.6</string>
+					</array>
+					<array>
+						<string>0.7</string>
+						<string>0.7</string>
+					</array>
+					<array>
+						<string>0.8</string>
+						<string>0.8</string>
+					</array>
+					<array>
+						<string>0.9</string>
+						<string>0.9</string>
+					</array>
+					<array>
+						<string>1.0</string>
+						<string>1.0</string>
+					</array>
+				</array>
+			</dict>
+			<key>description</key>
+			<string>A larger value decreasing the likelihood to repeat the same line. 值越大，越有可能降低重复字词。</string>
+			<key>label</key>
+			<string>FREQUENCY_PENALTY</string>
+			<key>type</key>
+			<string>popupbutton</string>
+			<key>variable</key>
+			<string>frequency_penalty</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string></string>
+				<key>placeholder</key>
+				<string>Input your API Key...</string>
+				<key>required</key>
+				<false/>
+				<key>trim</key>
+				<true/>
+			</dict>
+			<key>description</key>
+			<string>Input your OpenAI API Key or customised proxy API Key.输入你的OpenAI API Key或者代理服务的API Key。</string>
+			<key>label</key>
+			<string>API key</string>
+			<key>type</key>
+			<string>textfield</string>
+			<key>variable</key>
+			<string>api_key</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string></string>
+				<key>placeholder</key>
+				<string></string>
+				<key>required</key>
+				<false/>
+				<key>trim</key>
+				<false/>
+			</dict>
+			<key>description</key>
+			<string>Input your Proxy API without "https://". 输入你的代理服务API，不要添加“https://”。</string>
+			<key>label</key>
+			<string>Customised API</string>
+			<key>type</key>
+			<string>textfield</string>
+			<key>variable</key>
+			<string>proxy_api</string>
+		</dict>
+	</array>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>23.8.26</string>
+	<key>webaddress</key>
+	<string>https://github.com/AlickH/ImmeGPT.alfredworkflow</string>
+</dict>
+</plist>
